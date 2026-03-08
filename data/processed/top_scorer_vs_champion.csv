@@ -1,0 +1,46 @@
+season_year,top_scorer,team,games_played,avg_points,champion,scorer_is_champion
+1980,George Gervin,San Antonio Spurs,86,31.2,Los Angeles Lakers,Não
+1981,Adrian Dantley,Utah Jazz,70,30.0,Boston Celtics,Não
+1982,Adrian Dantley,Utah Jazz,74,30.6,Los Angeles Lakers,Não
+1983,Kiki Vandeweghe,Denver Nuggets,89,28.7,Philadelphia 76ers,Não
+1984,Bernard King,New York Knicks,84,31.4,Boston Celtics,Não
+1985,Alex English,Denver Nuggets,95,29.1,Los Angeles Lakers,Não
+1986,Dominique Wilkins,Atlanta Hawks,82,30.2,Boston Celtics,Não
+1987,Michael Jordan,Chicago Bulls,84,35.5,Los Angeles Lakers,Não
+1988,Michael Jordan,Chicago Bulls,92,35.8,Los Angeles Lakers,Não
+1989,Michael Jordan,Chicago Bulls,99,32.2,Detroit Pistons,Não
+1990,Michael Jordan,Chicago Bulls,99,33.4,Detroit Pistons,Não
+1991,Michael Jordan,Chicago Bulls,98,31.1,Chicago Bulls,Sim
+1992,Michael Jordan,Chicago Bulls,101,31.9,Chicago Bulls,Sim
+1993,Michael Jordan,Chicago Bulls,70,33.4,Chicago Bulls,Sim
+1994,Shaquille O'Neal,Orlando Magic,85,29.6,Houston Rockets,Não
+1995,Hakeem Olajuwon,Houston Rockets,98,28.3,Houston Rockets,Sim
+1996,Michael Jordan,Chicago Bulls,103,30.7,Chicago Bulls,Sim
+1997,Michael Jordan,Chicago Bulls,100,29.0,Chicago Bulls,Sim
+1998,Michael Jordan,Chicago Bulls,73,30.1,Chicago Bulls,Sim
+1999,Allen Iverson,Philadelphia 76ers,80,27.1,San Antonio Spurs,Não
+2000,Shaquille O'Neal,Los Angeles Lakers,107,28.3,Los Angeles Lakers,Sim
+2001,Shaquille O'Neal,Los Angeles Lakers,88,27.7,Los Angeles Lakers,Sim
+2002,Allen Iverson,Philadelphia 76ers,74,30.1,Los Angeles Lakers,Não
+2003,Tracy McGrady,Orlando Magic,89,28.7,San Antonio Spurs,Não
+2004,Kobe Bryant,Los Angeles Lakers,91,25.5,Detroit Pistons,Não
+2005,Allen Iverson,Philadelphia 76ers,93,30.3,San Antonio Spurs,Não
+2006,Kobe Bryant,Los Angeles Lakers,92,31.3,Miami Heat,Não
+2007,Kobe Bryant,Los Angeles Lakers,92,29.2,San Antonio Spurs,Não
+2008,LeBron James,Cleveland Cavaliers,99,28.5,Boston Celtics,Não
+2009,LeBron James,Cleveland Cavaliers,104,28.8,Los Angeles Lakers,Não
+2010,Kevin Durant,Oklahoma City Thunder,91,29.1,Los Angeles Lakers,Não
+2011,Kevin Durant,Oklahoma City Thunder,72,27.3,Dallas Mavericks,Não
+2012,Kevin Durant,Oklahoma City Thunder,117,27.6,Miami Heat,Não
+2013,Kevin Durant,Oklahoma City Thunder,98,28.2,Miami Heat,Não
+2014,Kevin Durant,Oklahoma City Thunder,87,29.1,San Antonio Spurs,Não
+2015,Russell Westbrook,Oklahoma City Thunder,87,26.3,Golden State Warriors,Não
+2016,James Harden,Houston Rockets,93,28.5,Cleveland Cavaliers,Não
+2017,James Harden,Houston Rockets,96,30.1,Golden State Warriors,Não
+2018,LeBron James,Cleveland Cavaliers,68,29.4,Golden State Warriors,Não
+2019,James Harden,Houston Rockets,95,36.9,Toronto Raptors,Não
+2020,LeBron James,Los Angeles Lakers,68,24.3,Los Angeles Lakers,Sim
+2021,Stephen Curry,Golden State Warriors,105,28.3,Milwaukee Bucks,Não
+2022,Giannis Antetokounmpo,Milwaukee Bucks,84,30.8,Golden State Warriors,Não
+2023,Luka Doncic,Dallas Mavericks,65,31.3,Denver Nuggets,Não
+2024,Luka Doncic,Dallas Mavericks,88,29.6,Boston Celtics,Não

@@ -109,4 +109,4 @@ O banco foi modelado seguindo um esquema estrela com `player_statistics` e `team
 
 ## Dashboard
 
-Tableau Public: (https://public.tableau.com/views/nba-data-project/Planilha2?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Tableau Public:] (https://public.tableau.com/views/nba-data-project/Planilha2?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)

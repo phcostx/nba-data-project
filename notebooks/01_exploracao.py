@@ -19,4 +19,5 @@ for arquivo in arquivos:
     print(f"\nColunas:\n{df.dtypes}")
     print(f"\nNulos:\n{df.isnull().sum()}")
     print(f"\nAmostra:\n{df.head(3)}")
+
 # %%
